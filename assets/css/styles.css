@@ -1,11 +1,11 @@
 /* styles.css */
 
 h1 {
-	front-size: 20em:
+	font-size: 20em;
 	color: hotpink;
 }
 
-p{
+p {
 	font-size: 7em;
 	color: magenta;
 }
